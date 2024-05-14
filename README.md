@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hola, soy Jhon Rivera! 👋
+
+Mi nombre es Jhon, soy estudiante de Informática. Mi trayectoria como desarrollador comenzó hace dos años, por lo cual me he mantenido entusiasta trabajando en varios proyectos personales y profesionales.
+
+Actualmente me encuentro en la busqueda de ampliar mi campo laboral.
+
+## 📖 Conocimientos
+* HTML
+* CSS
+* JavaScript
+* Node.js Express
+* MySQL
+
+## 📫 Contacto
+[LinkedIn](www.linkedin.com/in/jhon-rivera)
+
+[ ✉️ Mail](jhonariverab@gmail.com)
 
 <!--
 **jhonr1vera/jhonr1vera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
