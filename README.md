@@ -2,7 +2,7 @@
 
 Mi nombre es Jhon, soy estudiante de Informática. Mi trayectoria como desarrollador comenzó hace dos años, por lo cual me he mantenido entusiasta trabajando en varios proyectos personales y profesionales.
 
-Actualmente me encuentro en la busqueda de ampliar mi campo laboral.
+Actualmente me encuentro en la búsqueda de ampliar mi campo laboral.
 
 ## 📖 Conocimientos
 * HTML
@@ -11,7 +11,7 @@ Actualmente me encuentro en la busqueda de ampliar mi campo laboral.
 * Node.js Express
 * SQL
 
-## Herramientas
+## 💻 Herramientas
 * Visual Studio Code
 * MySQL
 
