@@ -9,12 +9,16 @@ Actualmente me encuentro en la busqueda de ampliar mi campo laboral.
 * CSS
 * JavaScript
 * Node.js Express
+* SQL
+
+## Herramientas
+* Visual Studio Code
 * MySQL
 
 ## 📫 Contacto
-[LinkedIn](www.linkedin.com/in/jhon-rivera)
+[LinkedIn](https://www.linkedin.com/in/jhon-rivera/)
 
-[ ✉️ Mail](jhonariverab@gmail.com)
+✉️ Mail: jhonariverab@gmail.com
 
 <!--
 **jhonr1vera/jhonr1vera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
