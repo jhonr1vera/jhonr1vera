@@ -1,9 +1,5 @@
 ### Hola, soy Jhon Rivera! 👋
 
-Mi nombre es Jhon, soy estudiante de Informática. Mi trayectoria como desarrollador comenzó hace dos años, por lo cual me he mantenido entusiasta trabajando en varios proyectos personales y profesionales.
-
-Actualmente me encuentro en la búsqueda de ampliar mi campo laboral.
-
 ## 📖 Conocimientos
 * HTML
 * CSS
