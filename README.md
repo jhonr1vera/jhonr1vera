@@ -1,4 +1,4 @@
-### Hola, soy Jhon Rivera! 👋
+### Hola, soy Jhon Rivera! 👋 | Hi! I'm Jhon Rivera
 
 ## 📖 Conocimientos | Knowledge 
 * HTML
