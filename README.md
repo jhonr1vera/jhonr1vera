@@ -1,17 +1,20 @@
 ### Hola, soy Jhon Rivera! 👋
 
-## 📖 Conocimientos
+## 📖 Conocimientos | Knowledge 
 * HTML
 * CSS
-* JavaScript
+* JavaScript | Typescript
 * Node.js Express
 * SQL
+* PHP
 
-## 💻 Herramientas
+## 💻 Herramientas | Tools
 * Visual Studio Code
 * MySQL
+* Git y GitHub
+* Docker
 
-## 📫 Contacto
+## 📫 Contactame | Contact me
 [LinkedIn](https://www.linkedin.com/in/jhon-rivera/)
 
 ✉️ Mail: jhonariverab@gmail.com
